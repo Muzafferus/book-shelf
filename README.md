@@ -4,6 +4,9 @@
 
 Book list with google books api 
 
+## Download
+
+APK Downloads: https://github.com/muzafferus/book-shelf/releases
 
 ## Screenshots
 

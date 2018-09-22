@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Shelf For You</string>
+    <string name="search">Search</string>
+    <string name="image">Book Image</string>
+    <string name="read">Read</string>
+    <string name="about">About</string>
+    <string name="no_internet">No internet</string>
+    <string name="no_data">No data</string>
+</resources>
